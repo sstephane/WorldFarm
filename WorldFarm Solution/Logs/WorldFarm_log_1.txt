@@ -22,3 +22,17 @@
 2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Executing the bootstrap(s)
 2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
 2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Solution started (duration: 70 ms)
+2013-01-12 16:52:17 [com.wakanda-software.WorldFarm] INFO - Stopping the solution
+2013-01-12 16:52:17 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Stopping the project
+2013-01-12 16:52:19 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Project stopped (duration: 2036 ms)
+2013-01-12 16:52:19 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Stopping the project
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm] INFO - Solution stopped (duration: 4085 ms)
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm] INFO - Closing the solution
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Closing the project
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Closing the database
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Database closed (duration: 513 ms)
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Project closed (duration: 514 ms)
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Closing the project
+2013-01-12 16:52:21 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Project closed (duration: 31 ms)
+2013-01-12 16:52:22 [com.wakanda-software.WorldFarm] INFO - Solution closed (duration: 1029 ms)
