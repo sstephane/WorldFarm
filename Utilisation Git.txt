@@ -1,4 +1,4 @@
-Importer le repository distant en local:
+﻿Importer le repository distant en local:
 	git clone https://github.com/sstephane/WorldFarm.git
 
 Voir l'état du repository local (fichier ajoutés, modifiés, supprimés):
@@ -28,6 +28,11 @@ Recevoir les dernières modifications du repository distant:
 	
 	Ordre:
 	git add . => git commit -a -m "message" => git push => git pull
-	
+
+Changer de branche:
+	git checkout develop
+
+	Toujours travailler sur la branche develop
+	Avant de commencer à travailler dans la journée, fait un git pull pour travailler sur la dernière version
 	
 
