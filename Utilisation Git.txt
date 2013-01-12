@@ -1,0 +1,33 @@
+Importer le repository distant en local:
+	git clone https://github.com/sstephane/WorldFarm.git
+
+Voir l'état du repository local (fichier ajoutés, modifiés, supprimés):
+	git status
+
+Ajouter fichier au repository (les indexer pour les ajouter ensuite à un commit):
+	git add "chemin absolu du fichier à ajouter"
+		ou
+	git add .
+
+Faire un commit (un packaging de tous les fichiers indexés modifiés):
+	git commit -a -m "message descriptif du commit"
+		(-a pour tous les fichiers)
+	git commit -t
+
+Envoyer un/des commit(s) au repository distant:
+	git push
+
+Recevoir les dernières modifications du repository distant:
+	git pull
+
+
+
+!!!Ordre à respecter!!!
+	Pour faire un git pull, il faut avoir déja envoyé les dernieres modifications des fichiers indexés
+	au repository distant (git commit puis git push)
+	
+	Ordre:
+	git add . => git commit -a -m "message" => git push => git pull
+	
+	
+
