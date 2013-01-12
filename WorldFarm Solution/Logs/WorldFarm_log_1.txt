@@ -1,0 +1,24 @@
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Opening the solution
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Opening the users and groups directory
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Users and groups directory opened (duration: 20 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Opening the project
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Opening the database
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Database opened (duration: 29 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Project opened (duration: 37 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Opening the project
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Solution opened (duration: 105 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Starting the solution
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Starting the project
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Starting the HTTP server
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - HTTP server started (duration: 12 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Project started (duration: 31 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Starting the project
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Starting the HTTP server
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - HTTP server started (duration: 14 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Project started (duration: 32 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Executing the bootstrap(s)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.WorldFarm] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2013-01-12 16:18:42 [com.wakanda-software.WorldFarm] INFO - Solution started (duration: 70 ms)
